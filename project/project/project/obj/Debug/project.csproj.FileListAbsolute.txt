@@ -1,0 +1,8 @@
+C:\Users\MZN\Desktop\C#\project\project\bin\Debug\project.exe.config
+C:\Users\MZN\Desktop\C#\project\project\bin\Debug\project.exe
+C:\Users\MZN\Desktop\C#\project\project\bin\Debug\project.pdb
+C:\Users\MZN\Desktop\C#\project\project\obj\Debug\project.exe
+C:\Users\MZN\Desktop\C#\project\project\obj\Debug\project.pdb
+C:\Users\MZN\Desktop\C#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\مجلد جديد\project\project\project\obj\Debug\project.exe
+D:\مجلد جديد\project\project\project\obj\Debug\project.pdb
